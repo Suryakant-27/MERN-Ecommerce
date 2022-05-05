@@ -10,3 +10,7 @@ STEPS :-)
    -> Add product images
    -> render products
    -> style products
+
+5. Add Routing
+   -> npm i react-router-dom
+   -> create route for home and product screen
