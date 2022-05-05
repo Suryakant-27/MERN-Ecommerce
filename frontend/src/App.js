@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 import data from './data';
 import { BrowserRouter, Link, Route, Routes } from 'react-router-dom';
 import HomeScreen from './screens/HomeScreen';
