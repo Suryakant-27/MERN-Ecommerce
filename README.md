@@ -33,3 +33,7 @@ STEPS :-)
    -> set proxy in package.json
    -> npm install axios
    -> use state,effect,reducer hooks
+
+8. Add Bootstrap UI Framework
+   ->npm install react-bootstrap bootstrap
+   ->update App.js
