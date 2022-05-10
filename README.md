@@ -39,3 +39,10 @@ STEPS :-)
    ->update App.js
 
 9. Create and add Product Components
+
+10. Implement Add to Cart
+    ->Create react context
+    ->define reducer
+    ->create store provider
+    ->implement add to cart button click handler
+    ->Check count in stock
