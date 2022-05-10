@@ -46,3 +46,8 @@ STEPS :-)
     ->create store provider
     ->implement add to cart button click handler
     ->Check count in stock
+
+11. Create Cart UI
+    ->create 2 colunms
+    a.) display items list
+    b.) create action column
