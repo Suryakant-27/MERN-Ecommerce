@@ -37,3 +37,5 @@ STEPS :-)
 8. Add Bootstrap UI Framework
    ->npm install react-bootstrap bootstrap
    ->update App.js
+
+9. Create and add Product Components
