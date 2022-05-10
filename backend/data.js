@@ -18,7 +18,7 @@ const data = {
       category: 'Tshirt',
       image: '/images/p2.jpg.jfif',
       price: '$200',
-      countInstock: 23,
+      countInstock: 0,
       brand: 'nike',
       rating: 4.6,
       numReviews: 10,
