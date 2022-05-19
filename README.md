@@ -51,3 +51,11 @@ STEPS :-)
     ->create 2 colunms
     a.) display items list
     b.) create action column
+
+12. Creating signIN page
+
+13. Connect to MongoDB DataBase
+    ->create atlas mongoDB databse
+    ->install local mongoDB databse
+    ->npm intall mongoose
+    ->connect to mongoDB database
