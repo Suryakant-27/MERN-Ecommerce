@@ -1,13 +1,12 @@
 {
   "name": "backend",
-  "homepage":"https://Suryakant-27.github.io/MERN-Ecommerce",
+  
   "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    
     "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
